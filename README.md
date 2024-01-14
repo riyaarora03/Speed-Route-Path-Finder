@@ -10,3 +10,18 @@ The objective of this project is to provide users with the shortest and fastest 
     Data Structure and Algorithms
     Dijikstra Algorithm
     Graph
+
+## Brief
+You are given a map of connectivity between different cities. 
+This map is represented in form of  graph. Each node of this graph denotes a city and weight of edge between two nodes is the distance between them. User will enter any number out of 1, 2 and 3. 
+
+On entering 1, you have to display the graph.
+![Image Alt Text](https://github.com/riyaarora03/Speed-Route-Path-Finder/blob/main/screenshots/s1.png)
+
+On entering 2, take the source and desired destination of user as input and print the shortest path from source city to destination city. Also print the shortest possible path between them.
+![Image Alt Text](https://github.com/riyaarora03/Speed-Route-Path-Finder/blob/main/screenshots/s2.png)
+
+Lastly if the user enters 3, print the time it will take to travel from source city to destination city by different modes of transport. Mode of transport can be anything like bike, car, train etc.  
+![Image Alt Text](https://github.com/riyaarora03/Speed-Route-Path-Finder/blob/main/screenshots/s3.png)
+
+If the user enters any number other than 1, 2 and 3, then output is an appropriate message which tells user that the data entered is invalid.
