@@ -20,6 +20,8 @@ The objective of this project is to provide users with the shortest and fastest 
 • Print the shortest path from source to destination city
 • Calculate and print time taken to travel between two cities using different modes of transport (bike, car, bus, train etc).
 
+![Image Alt Text](https://github.com/riyaarora03/Speed-Route-Path-Finder/blob/main/speed%20route.png)
+
 ## Brief
 You are given a map of connectivity between different cities. 
 This map is represented in form of  graph. Each node of this graph denotes a city and weight of edge between two nodes is the distance between them. User will enter any number out of 1, 2 and 3. 
