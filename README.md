@@ -1,5 +1,7 @@
 # Speed-Route-Path-Finder
+Speed Route - Path Finder is gives a hassle-free and quick solution to their queries about distance between two cities and path to reach them. It is easy to understand and use, and can be a major time saver for many people who avoid checking multiple websites for searching for shortest path between two places. Its working is pretty simple and direct and gives optimal solution to the problem.
 
+## OBJECTIVE
 The objective of this project is to provide users with the shortest and fastest route to their destination. By using advanced algorithms and techniques learnt till now, the project aims to provide accurate and reliable route recommendations that save users time and reduce stress levels associated with traffic.
 
 The objective of this project is to provide users with the shortest and fastest route to their destination. By using advanced algorithms and techniques learnt till now, the project aims to provide accurate and reliable route recommendations that save users time and reduce stress levels associated with traffic.
